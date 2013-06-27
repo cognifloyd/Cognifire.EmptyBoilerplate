@@ -1,6 +1,6 @@
 {
     "name": "cognifire/emptyboilerplate",
-    "type": "typo3-flow-package",
+    "type": "typo3-flow-boilerplate",
     "description": null,
     "version": null,
     "require": {
